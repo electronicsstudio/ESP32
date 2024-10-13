@@ -1,5 +1,11 @@
-#include <Ticker.h>
+/*
+Electronics Studio
+@file Ticker_LED.ino
+@date 15-08-2024
+@url https:https://github.com/electronicsstudio
+*/
 
+#include <Ticker.h>
 #define LED 2
 Ticker ticker;
 
