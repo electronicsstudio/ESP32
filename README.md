@@ -1,1 +1,1 @@
-In this Ticker_LED.ino file I mentioned the code for how to use the Timer interrupt/Ticker with example.
+In this video, you will learn How to use a Timer Ticker or Timer interrupt with the help of an ESP32 board.
